@@ -10,21 +10,13 @@
 
 </div>
 
-# Pratik Kumar
-
-### Software Engineer • Full Stack Developer
-
-*Building scalable applications with Python, React, Flutter and modern AI tools.*
-
-</div>
-
 ---
 
 ## 🐧 About Me
 
 pratik@linux:~$ whoami
 
-Languages : Python, JavaScript, Dart
+Languages : JavaScript, Python, Dart, C++, SQL
 Focus     : Full Stack Development
 Exploring : AI Engineering
 
@@ -35,7 +27,7 @@ Exploring : AI Engineering
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,dart,cpp,c,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,js,dart,cpp,html,css,sql" />
 </p>
 
 ### Frontend
