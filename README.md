@@ -1,5 +1,15 @@
 <div align="center">
 
+<img src="./assets/lorenz.svg" width="100%" />
+
+# Pratik Kumar
+
+### Software Engineer • Full Stack Developer
+
+*Building scalable applications with Python, React, Flutter and modern AI tools.*
+
+</div>
+
 # Pratik Kumar
 
 ### Software Engineer • Full Stack Developer
