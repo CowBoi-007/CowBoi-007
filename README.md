@@ -12,15 +12,11 @@
 
 ## 🐧 About Me
 
-```bash
 pratik@linux:~$ whoami
 
-Name      : Pratik Kumar
-Role      : Software Engineer
-OS        : Linux
-Editor    : VS Code
-Focus     : Full Stack Development & AI Engineering
-```
+Languages : Python, JavaScript, Dart
+Focus     : Full Stack Development
+Exploring : AI Engineering
 
 ---
 
