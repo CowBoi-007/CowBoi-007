@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="./assets/lorenz.svg" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CowBoi-007/CowBoi-007/main/assets/banner.svg" width="100%" alt="Lorenz Banner">
+</p>
 
 # Pratik Kumar
 
