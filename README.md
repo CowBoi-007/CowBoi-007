@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/lorenz.gif" width="100%" alt="Animated Lorenz Attractor">
+  <img src="./assets/lorenz.gif" width="100%" />
 </p>
 
 # Pratik Kumar
