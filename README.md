@@ -1,12 +1,17 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=7E3ACE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+Stack;Python+%7C+Django+%2F+FastAPI+%2F+Flask;Flutter+%26+Dart+%7C+Cross-Platform+Apps;Building+with+AI+Pair-Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=7E3ACE&center=true&vCenter=true&width=600&lines=Software+Developer;AI+Engineer;Python+%E2%80%A2+JavaScript+%E2%80%A2+Dart;AI-Assisted+Engineering" alt="Typing SVG" />
 </a>
+
+<p>Building end-to-end apps and exploring how AI tools fit into real engineering workflows.</p>
+
+<img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-7E3ACE?style=for-the-badge" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/-pratikkumar2006-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratikkumar2006/)
 [![Email](https://img.shields.io/badge/-thepratikkumar2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thepratikkumar2006@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/CowBoi-007?style=for-the-badge&logo=github&label=Followers&color=181717&logoColor=white)](https://github.com/CowBoi-007)
 
 </div>
 
@@ -21,24 +26,7 @@ Full Stack Developer skilled in building end-to-end web and mobile applications 
 ### 💡 Languages & Frameworks
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL / MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="Material-UI" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="45" height="45" style="background:white;border-radius:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" width="45" height="45" style="background:white;border-radius:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="45" height="45" style="background:white;border-radius:6px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="45" height="45" style="background:white;border-radius:6px"/>
+  <img src="https://skillicons.dev/icons?i=js,python,dart,cpp,mysql,html,css,react,mui,nodejs,express,django,fastapi,flask,flutter,mongodb,git,github&perline=9" alt="Skills" />
 </p>
 
 ---
@@ -69,7 +57,7 @@ Full Stack Developer skilled in building end-to-end web and mobile applications 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CowBoi-007&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CowBoi-007&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
@@ -82,7 +70,7 @@ Full Stack Developer skilled in building end-to-end web and mobile applications 
 
 </div>
 
-<p align="center"><i>Snake animation renders once the workflow below is set up (see note at bottom).</i></p>
+<p align="center"><i>Snake animation needs a GitHub Action set up in this repo — let me know if you want that workflow file added.</i></p>
 
 ---
 
@@ -91,21 +79,3 @@ Full Stack Developer skilled in building end-to-end web and mobile applications 
 [![back to top](https://img.shields.io/static/v1?label=&message=Back+to+top&color=7E3ACE&style=flat)](#top)
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
