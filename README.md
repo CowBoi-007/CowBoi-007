@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CowBoi-007/CowBoi-007/main/assets/banner.svg" width="100%" alt="Lorenz Banner">
+  <img src="./assets/lorenz.gif" width="100%" alt="Animated Lorenz Attractor">
 </p>
 
 # Pratik Kumar
