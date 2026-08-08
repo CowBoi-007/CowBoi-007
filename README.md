@@ -1,12 +1,8 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=7E3ACE&center=true&vCenter=true&width=600&lines=Software+Developer;AI+Engineer;Python+%E2%80%A2+JavaScript+%E2%80%A2+Dart;AI-Assisted+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=7E3ACE&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full+Stack+Developer+%7C+Exploring+AI+Engineering" alt="Typing SVG" />
 </a>
-
-<p>Building end-to-end apps and exploring how AI tools fit into real engineering workflows.</p>
-
-<img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-7E3ACE?style=for-the-badge" />
 
 <br/><br/>
 
@@ -21,12 +17,56 @@
 
 Full Stack Developer skilled in building end-to-end web and mobile applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and **Python** (Django, FastAPI, Flask). Experienced in cross-platform mobile development with **Flutter and Dart**, including independently publishing an Android application on the Google Play Store. I direct AI pair-programming tools (GitHub Copilot, ChatGPT, Claude) for rapid prototyping, refactoring, and debugging — while owning the architecture and design decisions myself. Strong fundamentals in Data Structures & Algorithms, OOP, REST API design, database design, and Git/GitHub.
 
+Currently branching out into **AI Engineering** — going deeper into model integration, LLM tooling, and applied ML on top of my full-stack foundation.
+
 ---
 
-### 💡 Languages & Frameworks
+### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,dart,cpp,mysql,html,css,react,mui,nodejs,express,django,fastapi,flask,flutter,mongodb,git,github&perline=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,python,dart,cpp,mysql" alt="Languages" />
+</p>
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,mui,html,css" alt="Frontend" />
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask" alt="Backend" />
+</p>
+
+### 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Mobile" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+</p>
+
+### 🤖 AI / ML — Currently Exploring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI/ML" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Prompt%20Engineering-7E3ACE?style=flat-square" />
+</p>
+
+### 🛠️ Core CS & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 </p>
 
 ---
@@ -56,21 +96,11 @@ Full Stack Developer skilled in building end-to-end web and mobile applications 
   <img src="https://streak-stats.demolab.com/?user=CowBoi-007&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CowBoi-007&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CowBoi-007&theme=radical&no-frame=true&column=7" alt="Trophies" />
-</p>
-
 <div align="center">
 
 ![Snake animation](https://github.com/CowBoi-007/CowBoi-007/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-<p align="center"><i>Snake animation needs a GitHub Action set up in this repo — let me know if you want that workflow file added.</i></p>
 
 ---
 
