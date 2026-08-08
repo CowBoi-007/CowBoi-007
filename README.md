@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=7E3ACE&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full+Stack+Developer+%7C+Exploring+AI+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=1200&color=7E3ACE&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Full+Stack+Developer+%7C+Exploring+AI+Engineering" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -15,9 +15,29 @@
 
 ### 👋 About Me
 
-Full Stack Developer skilled in building end-to-end web and mobile applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and **Python** (Django, FastAPI, Flask). Experienced in cross-platform mobile development with **Flutter and Dart**, including independently publishing an Android application on the Google Play Store. I direct AI pair-programming tools (GitHub Copilot, ChatGPT, Claude) for rapid prototyping, refactoring, and debugging — while owning the architecture and design decisions myself. Strong fundamentals in Data Structures & Algorithms, OOP, REST API design, database design, and Git/GitHub.
+```bash
+$ whoami
+Pratik Kumar
 
-Currently branching out into **AI Engineering** — going deeper into model integration, LLM tooling, and applied ML on top of my full-stack foundation.
+$ cat role.txt
+Software Engineer | Full Stack Developer | Exploring AI Engineering
+
+$ cat about.txt
+Full Stack Developer skilled in building end-to-end web and mobile apps
+using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Python
+(Django, FastAPI, Flask). Experienced in cross-platform mobile development
+with Flutter and Dart, including independently publishing an Android app
+on the Google Play Store. Directs AI pair-programming tools (GitHub
+Copilot, ChatGPT, Claude) for rapid prototyping, refactoring, and
+debugging — while owning architecture and design decisions.
+
+$ cat currently.txt
+Branching into AI Engineering — model integration, LLM tooling, and
+applied ML on top of a full-stack foundation.
+
+$ echo $STATUS
+Open to Software Developer / AI Engineering internships
+```
 
 ---
 
@@ -88,17 +108,12 @@ Currently branching out into **AI Engineering** — going deeper into model inte
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CowBoi-007&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CowBoi-007&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=CowBoi-007&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
 
-![Snake animation](https://github.com/CowBoi-007/CowBoi-007/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CowBoi-007/CowBoi-007/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
